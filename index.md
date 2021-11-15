@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Module 5
+title: Module 6
 nav_order: 1
 ---
 
-# Spatial Analysis & GIS Workflows      
+# Error, Spatial Bias, Logical Fallacies    
 
-This module will cover spatial analysis and inference methods methods.  We can overlay spatial layers to create new information and make conclusions about our data.
+This module will cover types of errors, spatial bias, and logical falacies.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hnTuP5HrLlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

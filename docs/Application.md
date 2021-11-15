@@ -5,32 +5,9 @@ has_children: True
 nav_order: 3
 ---
 
-# Port Alberin Tsunami Risk Assessment
+# Project Proposal
 
-## Learning Objectives:
-
-* Gain Familiarity with Spatial Overlay Methods
-* Introduction to Model Builder
-* GIS Applications in Hazards planning 
-
-
-## Research Question
-
-How would a catastrophic tsunami potentially impact Port Alberni?
-
-## Download the Project
-
-I've set up a project for you.  You can download it [here](https://github.com/June-Skeeter/Module5_GEOS270/blob/main/data/Module5.zip).  Extract the Module5 project folder to your working directory (eg. C:/Temp).  Open it, and double click the Module5.aprx file to open your project.
- 
-## Workflow
-
-
-
-**1**{: .label} Identify at risk areas based on elevation and distance from coast.
-
-**2**{: .label} Overlay vector layers to highlight features at risk.
-
-**3**{: .label} Visualize and analyze the results.
+Your task for lab this week is to find a group and come up with your [project proposal](https://june-skeeter.github.io/FinalProjects_GEOS270/docs/Proposal.html).  There is a group signup page on canvas.  Once you have a group, **make sure** all your members join on canvas.  Those who fail to join their group, won't get grades for the proposal submission.
 
 
 
