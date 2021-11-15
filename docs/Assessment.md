@@ -30,15 +30,11 @@ All quiz answers are multiple choice, numeric input, fill in the blank, etc. typ
 
 ---
 
-# Module Assignment (40pts)
-
-All written answers should be numbered and record in one document, saved as a .pdf, and uploaded to canvas.  The file submissions should also be saved as .pdf and uploaded as a separate document.  **Written answers can be as brief as you want as long as they answer the question.**
-
-There are no written questions for this module.
-
 ---
 
 ## Proposal Submissions (40 pts)
 
+
+There are no written questions for this module.  Just your proposal submission.
 
 
