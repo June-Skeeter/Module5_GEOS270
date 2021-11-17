@@ -21,6 +21,18 @@ This week, we will be discussing errors, spatial bias, and logical fallacies.  W
 </details>
 ---
 
+# Teachinig Evaluations
+
+Thanks to those of you who filled out the survey!  I'm constantly trying to improve!
+- Teaching evaluations are available now.  Please fill them out!
+  - They help me improve the course.
+  - They dictate my future employment prospects.
+
+- Some things I'd like to know
+  - Would you have liked having a mid-term?
+  - How do you feel about the late policy?
+  - Pace & order of content delivery?
+
 # Themes from Mid-Term Survey
 
 ## What are folks unsure about?
@@ -68,7 +80,3 @@ There are a number of ways to create flowcharts.  You can draw them by hand, an 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jq5NxMpOSKI?start=135" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-# Content Questions
-
-These will be posted shortly
