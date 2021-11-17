@@ -15,15 +15,10 @@ nav_order: 2
 # Error, Spatial Bias, Logical Fallacies
 {: .no_toc }
 
-For our purposes, we will use the work **uncertainty** to describe all problems that arise from our imperfect understanding of the world, our inability to measure it exactly, and our imperfect nature when translating the real world to the GIS.  You can think of it using the equation:
+See [**this link**](https://github.com/June-Skeeter/Module6_GEOS270/blob/main/docs/content/Nov_17.pdf) for a .pdf copy of the lecture (*note the formatting is not perfect*)
 
+See [**this link**](https://github.com/June-Skeeter/Module6_GEOS270/blob/main/docs/content/Error_Examples.zip) if you would like a copy of the ArcPro Error_Examples project file to play around with on your own.
 
-
-$$
-\begin{align*}
-Uncertainty = Error (precision + accuracy) + ambiguity + vagueness + logical flaws
-\end{align*}
-$$
 
 <details open markdown="block">
   <summary>
@@ -35,6 +30,14 @@ $$
 </details>
 
 # Data Quality in GIS
+
+For our purposes, we will use the work **uncertainty** to describe all problems that arise from our imperfect understanding of the world, our inability to measure it exactly, and our imperfect nature when translating the real world to the GIS.  You can think of it using the equation:
+
+$$
+\begin{align*}
+Uncertainty = Error (precision + accuracy) + ambiguity + vagueness + logical flaws
+\end{align*}
+$$
 
 Data quality is mostly a measure of how good a particular dataset is to your needs.  It is up to GIS users to assess data to determine if it is appropriate to their needs and use case.  There is no standardized measure of data quality for GIS products.  
 * May pass through many hands before flaws are discovered
