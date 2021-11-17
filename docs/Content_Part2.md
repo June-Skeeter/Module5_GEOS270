@@ -67,24 +67,23 @@ These terms are closely related, but the distinction is **very** important.
 These two terms are very closely related.  The main distinction, its vagueness is about lack of information, ambiguity is about multiple options.
 
 **Vagueness**: When something is not clearly stated or expressed.  Vagueness arises when boundaries or definitions are poorly defined.  eg. The word “bank” can refer to a financial institution or a riverside.
-* Boundaries may not be clearly defined
-  * Where does a forest end?  On a coastline we might have a pretty distinct boundary.  But what about
-* Data may be an estimate
-  * Stats Canada census long form - only samples 20% of the population.  Questions pertaining to: racial identity, income, hosing cost, etc. are all drawn from estimates.  It is highly unlikely the number presented by Stats Canada are **exactly** representative of the real value.
-* The position of objects are unclear or changeable
-  * Fraser river boundary file - Is it the low water line? mean water level? high water line?
+* Boundaries may not be clearly defined.  eg. Where does a forest end?
+* Data may be an estimate.  eg. Stats Canada census long form - only samples 20% of the population.  Questions pertaining to: racial identity, income, hosing cost, etc. are all drawn from estimates.  It is highly unlikely the number presented by Stats Canada are **exactly** representative of the real value.
+* The position of objects are unclear or changeable.  eg. Fraser river boundary file - Is it the low water line? mean water level? high water line?
 
+Can you see the grizzly in this picture?
 <img src="content/images/vague.jpg" alt="missing" class="inline" width="500">
 
 **Ambiguity**: Uncertain in meaning.  Ambiguity arises when something can be interpreted in more than one way.  eg. stating that an action “may be appropriate” reduces the clarity about whether or not the action should be performed.
 * Labels can often apply to multiple features: does “London” refer to London, UK or London, Ontario, Canada?
 * Multiple points of interest may be located near a label: which one does it refer to?
 
+Lots of incidents clustered together
 <img src="content/images/bc_roads.png" alt="missing" class="inline" width="500">
 
-## Misunderstanding
+## Misunderstandings & Logical Flaws
 
-There are a near infinite number of ways we can misunderstand or misinterpret a system.  The misunderstanding of a problem must be evaluated on a case by case bases.
+There are a near infinite number of ways we can misunderstand or misinterpret a system.  The misunderstanding of a problem must be evaluated on a case by case bases.  I'll discuss a few key ones below in a bit.
 
 
 ---
@@ -189,7 +188,7 @@ A logical fallacy is a flaw in our reasoning that undermine the logic of our arg
 
 * “Hasty generalizations” are an example of logical fallacies: ‘I saw a violent protester on TV … Protesters are inciting violence.’
 
-### Labels, Boundaries
+### Labels and Boundaries
 
 Since geographic phenomena often don’t have clear, natural units, we are often forced to assign zones and labels in our work (eg. census tracts).
 * This is a convenient way of simplifying complex processes.
@@ -213,7 +212,7 @@ The **Modifiable Aerial Unit Problem** (MAUP) relates to how we choose to draw b
 
 <img src="content/images/MAUP1.png" alt="missing" class="inline" width="500">
 
-The big issues is that data collected at a finer level of detail is being combined into larger areas of lower detail.  Not only are we losing information, but what information remains can be easily manipulated.  We can use this property to imply things about the data that aren’t necessarily true
+The big issues is that data collected at a finer level of detail is being combined into larger areas of lower detail.  Not only are we losing information, but what information remains can be easily manipulated.  We can use this property to imply things about the data that are not necessarily true
 
 <img src="content/images/gerrymander.png" alt="missing" class="inline" width="500">
 
