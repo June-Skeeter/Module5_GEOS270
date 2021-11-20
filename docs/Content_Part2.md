@@ -217,9 +217,10 @@ The big issues is that data collected at a finer level of detail is being combin
 <img src="content/images/gerrymander.png" alt="missing" class="inline" width="500">
 
 
-The **Atomistic** fallacy occurs when we assume we can combine already aggregated data and aggregate it again at an even higher level
-For example:
-If you take the average income for CTs and average over Metro Vancouver to calculate average income
+The **Atomistic** fallacy occurs when we assume we can combine already aggregated data and aggregate it again at an even higher level For example:
+* If you take the average income by census dissemination areas and average those again for the city Vancouver
+  * You won't get the correct average, because you're comparing across units of different sizes/populations.
+* The US Electoral College: Totaling votes **per** state, then totaling "delegates" **by** state.
 
 <img src="content/images/atomistic.png" alt="missing" class="inline" width="500">
 
