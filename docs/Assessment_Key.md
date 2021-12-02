@@ -35,14 +35,22 @@ Rank the following cities by population density from 1-7 (1 = most dense, 7 leas
 |F  |Paris FR          |             105|                     2175|
 |G  |Anchorage, AK     |            5041|                      291|
 
+Correct:
 
 1              Paris FR
+
 2      New York City NY
+
 3          Vancouver BC
+
 4    New Westminster BC
+
 5            Burnaby BC
+
 6          Salisbury MD
+
 7         Anchorage, AK
+
 
 
 ### QC2
