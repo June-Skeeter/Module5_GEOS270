@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Refresher Videos
-parent: Content
+parent: Lecture Content
 has_children: True
 nav_order: 1
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Error, Spatial Bias, Logical Fallacies
-parent: Content
+parent: Lecture Content
 has_children: True
 nav_order: 2
 ---

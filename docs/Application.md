@@ -1,14 +1,26 @@
 ---
 layout: default
-title: Application
+title: Lab Application
 has_children: True
 nav_order: 3
 ---
 
-# Project Proposal
+# Redoing the Risk Assessment
 
-Your task for lab this week is to find a group and come up with your [project proposal](https://june-skeeter.github.io/FinalProjects_GEOS270/docs/Proposal.html).  There is a group signup page on canvas.  Once you have a group, **make sure** all your members join on canvas.  Those who fail to join their group, won't get grades for the proposal submission.
+Your task for this module is to re-do some aspects of the Port Alberni Tsunami Risk Assessment using the weighted overlay tool.  Specifically, we want to create a more accurate inundation zone that will allow for a more nuanced look at which areas might flood in the event of a Tsunami.
 
+# Learning Outcomes
 
+* Gain Experience with Raster Overlay Methods
+* Apply a Multi-Ring Buffers
+* More Practice with Model Builder
 
+# Workflow
 
+**1**{: .label .label-red } Use the Euclidean Distance tool to approximate distance from the waterbodies layer
+
+**2**{: .label .label-red } Reclassify the distance and elevation rasters so they are binned in discrete intervals
+
+**3**{: .label .label-red } Use the Weighted Overlay tool to create a more accurate Inundation Zone
+
+**4**{: .label .label-red } Map areas in Port Alberni that could flood in the event of a Tsunami
