@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Error, Spatial Bias, Logical Fallacies
+title: Sampling and Interpolation
 parent: Lecture Content
 has_children: True
 nav_order: 2
@@ -12,14 +12,33 @@ nav_order: 2
 
 
 
-# Error, Spatial Bias, Logical Fallacies
+# Sampling and Interpolation
 {: .no_toc }
 
-See [**this link**](https://github.com/June-Skeeter/Module6_GEOS270/blob/main/docs/content/Nov_17.pdf) for a .pdf copy of the lecture (*note the formatting is not perfect*)
-
-See [**this link**](https://github.com/June-Skeeter/Module6_GEOS270/blob/main/docs/content/Error_Examples.zip) if you would like a copy of the ArcPro Error_Examples project file to play around with on your own.
 
 
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="content/Sampling.pdf" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="content/Sampling.pdf" target="_blank">View Slides in New Tab</a>
+
+
+
+<!-- See [**this link**](https://github.com/June-Skeeter/Module6_GEOS270/blob/main/docs/content/Nov_17.pdf) for a .pdf copy of the lecture (*note the formatting is not perfect*)
+
+See [**this link**](https://github.com/June-Skeeter/Module6_GEOS270/blob/main/docs/content/Error_Examples.zip) if you would like a copy of the ArcPro Error_Examples project file to play around with on your own. -->
+
+<!-- 
 <details open markdown="block">
   <summary>
     Table of contents
@@ -27,11 +46,14 @@ See [**this link**](https://github.com/June-Skeeter/Module6_GEOS270/blob/main/do
   {: .text-delta }
 1. TOC
 {:toc}
-</details>
+</details> -->
 
+<!-- 
 # Data Quality in GIS
+ -->
 
-For our purposes, we will use the work **uncertainty** to describe all problems that arise from our imperfect understanding of the world, our inability to measure it exactly, and our imperfect nature when translating the real world to the GIS.  You can think of it using the equation:
+
+<!-- For our purposes, we will use the work **uncertainty** to describe all problems that arise from our imperfect understanding of the world, our inability to measure it exactly, and our imperfect nature when translating the real world to the GIS.  You can think of it using the equation:
 
 $$
 \begin{align*}
@@ -223,5 +245,5 @@ The **Atomistic** fallacy occurs when we assume we can combine already aggregate
 * The US Electoral College: Totaling votes **per** state, then totaling "delegates" **by** state.
 
 <img src="content/images/atomistic.png" alt="missing" class="inline" width="500">
-
+ -->
 

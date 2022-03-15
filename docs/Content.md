@@ -21,18 +21,6 @@ This week, we will be discussing errors, spatial bias, and logical fallacies.  W
 </details>
 ---
 
-# Teachinig Evaluations
-
-Thanks to those of you who filled out the survey!  I'm constantly trying to improve!
-- Teaching evaluations are available now.  Please fill them out!
-  - They help me improve the course.
-  - They dictate my future employment prospects.
-
-- Some things I'd like to know
-  - Would you have liked having a mid-term?
-  - How do you feel about the late policy?
-  - Pace & order of content delivery?
-
 # Themes from Mid-Term Survey
 
 ## What are folks unsure about?
@@ -44,32 +32,27 @@ Thanks to those of you who filled out the survey!  I'm constantly trying to impr
 
 * GIS is **not** about memorization, it is about problem solving, critical thinking and reflection.  You'll almost always have access to the internet when doing GIS, if you don't know something, look it up!
 
-* The exam will be open book.  You'll be able to complete it anytime during a 3-day window (Dec 13th - 15th).  You will have 6 hours to complete it.  The exam is **not** intended to take you six hours, I just don't want you to feel rushed/overwhelmed.
+* The exam will be open book.  You'll be able to complete it anytime during a 3-day window (April 19th - 21st).  You will have 6 hours to complete it.  The exam is **not** intended to take you six hours, I just don't want you to feel rushed/overwhelmed.
   * More details will be given next week.
-  * I will try to give a thorough review for the exam on Dec 6th.
+  * I will the last lecture review for the exam on April 7th.
 
 
 * I've given an extensive list of possible [project ideas](https://june-skeeter.github.io/FinalProjects_GEOS270/docs/Ideas.html).
-  * You can also chat with your TAs in lab to think through ideas and get some tips.
+  * You can also chat with your TA in lab to think through ideas and get some tips.
 
 
 * If need some help flushing the idea out and determining a workflow, or you are unclear on any material, please don't hesitate to drop by my office hours! (In person or on Zoom)
-  * This week my office hours will stay as is (after class Wed, Thursday 2-3)
-  * I will be offering extended office hours the last three weeks of term (specific timing tbd)
-  * I'm happy to schedule zoom meetings at other hours (especially for folks in different time zones)
+  * I'm happy to schedule zoom meetings at other hours *with advanced notice*
 
 ## Miscellaneous
 
-* Navigating github
-* Formatting & typos
-* Audio quality
-* Downloadable lectures
+* Navigating github & Downloadable lectures
 
 ## Other Concerns?
 
 - Reach out if you have any issues
 
-# Flowcharts
+<!-- # Flowcharts
 
 The flowchart is an important requirement for you final project and there will be a flowchart question on the final exam.
 
@@ -78,5 +61,5 @@ The flowchart is an important requirement for you final project and there will b
 
 There are a number of ways to create flowcharts.  You can draw them by hand, an ArcGIS Pro model can serve as an (ugly) flowchart, you can use power point, or you can try [Diagrams.net](https://app.diagrams.net/).  This site allows you to make aesthetically pleasing flowcharts quickly and easily, the video bellow gives you a quick overview of how to use the too.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jq5NxMpOSKI?start=135" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jq5NxMpOSKI?start=135" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 

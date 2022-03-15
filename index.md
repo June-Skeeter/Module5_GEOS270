@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Module 6
+title: Module 5
 nav_order: 1
 ---
 
-# Error, Spatial Bias, Logical Fallacies    
+# Sampling & Interpolation; Error, Spatial Bias, & Logical Fallacies    
 
-This module will cover types of errors, spatial bias, and logical falacies.
+This module will discuss a few ideas spatial sampling and interpolation, followed by a broad discussion on types of errors, spatial bias, and logical falacies in GIS.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BEbl9k7Pu0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BEbl9k7Pu0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 # Deliverables
 
