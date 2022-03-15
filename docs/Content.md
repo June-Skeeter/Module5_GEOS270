@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Content
+title: Lecture Content
 has_children: True
 nav_order: 2
 ---

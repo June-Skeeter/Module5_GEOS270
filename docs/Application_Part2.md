@@ -16,3 +16,4 @@ Create a model and calculate distance from the water.
 
 **3**{: .label .label-red } Make sure to set the extent equal to the PA_DEM_ProjectRaster.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KLlTEq_UezY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
