@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Euclidain Distance
+title: Euclidean Distance
 parent: Lab Application
 nav_order: 2
 ---
 
 
-# Euclidain Distance
+# Euclidean Distance
 
-Create a model and calculate distance from the water.
+Create a model and calculate distance from the water.  You should complete these general steps.  Refer to the short video at the bottom of the page for reference.
 
 **1**{: .label .label-red } Create a new model.
 

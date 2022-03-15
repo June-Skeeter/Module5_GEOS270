@@ -6,9 +6,9 @@ nav_order: 3
 ---
 
 
-# Setup
+# Reclassify
 
-Reclassify distance and elevation
+Reclassify distance and elevation.  You should complete these general steps.  Refer to the short video at the bottom of the page for reference.
 
 **1**{: .label .label-red } Reclassify the **Euclidean Distance** layer following the table below.
 
