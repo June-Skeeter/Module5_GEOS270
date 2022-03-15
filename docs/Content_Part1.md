@@ -10,7 +10,7 @@ nav_order: 1
 {: .no_toc }
 
 
-Based on the survey, it looks like folks are feeling a bit unsure about some spatial overlay tools.
+Based on the survey, it looks like folks are feeling a bit unsure about projections and spatial overlay tools.
 
 <details open markdown="block">
   <summary>
