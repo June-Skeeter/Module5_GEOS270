@@ -6,7 +6,7 @@ nav_order: 4
 
 # Assessment
 
-You can use the submit your answers to the Assessment via the Module 3 Quiz on Canvas.  Questions are listed here with hyperlinks to the relevant section of the module if you need help finding answers.
+You can use the submit your answers to the Assessment via the Module 5 Quiz on Canvas.  Questions are listed here with hyperlinks to the relevant section of the module if you need help finding answers.
 
 
 ## Written Answers & File Uploads
