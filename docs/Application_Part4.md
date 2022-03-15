@@ -6,9 +6,9 @@ nav_order: 4
 ---
 
 
-# Setup
+# Weighted Overlay
 
-Use the weighted overlay tool to create an Inundation Risk layer.
+Use the weighted overlay tool to create an Inundation Risk layer.  You should complete these general steps.  Refer to the short video at the bottom of the page for reference.
 
 **1**{: .label .label-red } Add the weighted overlay tool to the model and set the reclassified layers as the inputs.
 
