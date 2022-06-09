@@ -41,7 +41,7 @@ This week, we will be discussing errors, spatial bias, and logical fallacies.  W
   * You can also chat with your TA in lab to think through ideas and get some tips.
 
 
-* If need some help flushing the idea out and determining a workflow, or you are unclear on any material, please don't hesitate to drop by my office hours! (In person or on Zoom)
+* If need some help flushing the idea out and determining a workflow, or you are unclear on any material, please don't hesitate to drop by my [office hours](https://june-skeeter.github.io/GEOS270_Syllabus_2022_S1/#your-instructor)! (In person or on Zoom)
   * I'm happy to schedule zoom meetings at other hours *with advanced notice*
 
 ## Miscellaneous
