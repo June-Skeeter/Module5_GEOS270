@@ -26,18 +26,18 @@ This week, we will be discussing errors, spatial bias, and logical fallacies.  W
 ## What are folks unsure about?
 
 * Geographic coordinate systems and map projections.
-* Spatial overlay/analysis methods
+* Spatial overlay/analysis methods.
 
 ## Not remembering tools, nervous about exam, unsure about the project, etc..
 
 * GIS is **not** about memorization, it is about problem solving, critical thinking and reflection.  You'll almost always have access to the internet when doing GIS, if you don't know something, look it up!
 
-* The exam will be open book.  You'll be able to complete it anytime during a 3-day window (April 19th - 21st).  You will have 6 hours to complete it.  The exam is **not** intended to take you six hours, I just don't want you to feel rushed/overwhelmed.
+* The exam will be open book.  You'll be able to complete it anytime during a 2-day window (June 27th - 28st).  You will have 6 hours to complete it.  The exam is **not** intended to take you six hours, I just don't want you to feel rushed/overwhelmed.
   * More details will be given next week.
-  * I will the last lecture review for the exam on April 7th.
+  * I will give a review for the exam on June 21st.
 
 
-* I've given an extensive list of possible [project ideas](https://june-skeeter.github.io/FinalProjects_GEOS270/docs/Ideas.html).
+* I've given an extensive list of possible [project ideas](https://june-skeeter.github.io/GEOS270_Syllabus_2022_S1/docs/Project_Ideas.html).
   * You can also chat with your TA in lab to think through ideas and get some tips.
 
 
@@ -46,7 +46,7 @@ This week, we will be discussing errors, spatial bias, and logical fallacies.  W
 
 ## Miscellaneous
 
-* Navigating github & Downloadable lectures
+* Navigating github
 
 ## Other Concerns?
 
