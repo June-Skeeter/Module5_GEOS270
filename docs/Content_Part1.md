@@ -3,10 +3,10 @@ layout: default
 title: Refresher Videos
 parent: Lecture Content
 has_children: True
-nav_order: 1
+nav_order: 5
 ---
 
-# Refresher Videos
+# Helpful Videos Videos
 {: .no_toc }
 
 
@@ -23,9 +23,16 @@ Based on the survey, it looks like folks are feeling a bit unsure about projecti
 
 # Spatial Coordinate Systems
 
+
+## Where are you?
+
+This Kurzgesagt video discusses scales and reference frames.  It can help give some context to why we need map projections.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pj-h6MEgE7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## What does the earth look like?
 
-This Vsauce video discusses map projections.  The whole video is interesting, but the **content on projections** starts around 4:00.
+This Vsauce video discusses map projections.  The whole video is interesting, but the **content on projections** starts around 3:30.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2lR7s1Y6Zig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

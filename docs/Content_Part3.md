@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Error, Spatial Bias, Logical Fallacies
+title: Unertainty in GIS
 parent: Lecture Content
 has_children: True
 nav_order: 3
@@ -12,7 +12,7 @@ nav_order: 3
 
 
 
-# Error, Spatial Bias, Logical Fallacies
+<!-- # Error, Spatial Bias, Logical Fallacies -->
 {: .no_toc }
 
 <!-- See [**this link**](https://github.com/June-Skeeter/Module6_GEOS270/blob/main/docs/content/Nov_17.pdf) for a .pdf copy of the lecture (*note the formatting is not perfect*)
@@ -20,6 +20,25 @@ nav_order: 3
 See [**this link**](https://github.com/June-Skeeter/Module6_GEOS270/blob/main/docs/content/Error_Examples.zip) if you would like a copy of the ArcPro Error_Examples project file to play around with on your own. -->
 
 
+
+<!-- 
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="content/Uncertainty.html" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="content/Uncertainty.html" target="_blank">View Slides in New Tab</a>
+ -->
+
+<!-- 
 <details open markdown="block">
   <summary>
     Table of contents
@@ -29,6 +48,7 @@ See [**this link**](https://github.com/June-Skeeter/Module6_GEOS270/blob/main/do
 {:toc}
 </details>
 
+ -->
 
 ## Data Quality in GIS
 
@@ -254,7 +274,7 @@ The ***ecological fallacy*** is an issue related to how we interpret statistical
 * The median income for my census tract is $2491/month
   * I don’t make that much …
 
-### Modifiable Aerial Unit Problem
+### Modifiable Areal Unit Problem
 
 (MAUP) relates to how we choose to draw boundaries.  Modifiable, arbitrary boundaries that have little justification can have a significant impact on values given to aggregated (combined) areas.  Related to the Ecological Fallacy.  When areas are grouped together, the way you choose to group them can change the values of the groups
 

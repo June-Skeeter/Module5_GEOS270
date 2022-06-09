@@ -28,7 +28,7 @@ This week, we will be discussing errors, spatial bias, and logical fallacies.  W
 * Geographic coordinate systems and map projections.
 * Spatial overlay/analysis methods
 
-## Not remembering tools, nervous about exam, unsure about the project,, etc..
+## Not remembering tools, nervous about exam, unsure about the project, etc..
 
 * GIS is **not** about memorization, it is about problem solving, critical thinking and reflection.  You'll almost always have access to the internet when doing GIS, if you don't know something, look it up!
 

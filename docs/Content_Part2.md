@@ -12,7 +12,7 @@ nav_order: 2
 
 
 
-# Sampling and Interpolation
+# Spatial Sampling and Interpolation
 {: .no_toc }
 
 

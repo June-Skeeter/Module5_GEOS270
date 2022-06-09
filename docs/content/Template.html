@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Reveal.js template</title>
+  <!-- credit https://bl.ocks.org/elipousson/f64814b1ee4aab5d83775bfbf556d35a -->
+
+  <meta name="description" content="Simple Reveal.js slidedeck template. Source files loaded from jsDelivr.">
+  <meta name="author" content="jitesh@spinspire.com">
+
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.2.1/reveal.min.css">
+
+<!-- 
+    <link id="theme" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.0/dist/theme/white.css"> -->
+    <link id="theme" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.2.1/theme/sky.css">
+
+  <style>
+
+.container {
+
+    border: 3px solid #73AD21;
+    position: fixed;
+    height: 650px;
+    width: 1200px;
+}
+
+.title{
+  position: relative;
+  top: 35%;
+}
+
+.subtitle{
+  position: relative;
+  top: 35%;
+}
+
+.header1 {
+  top: 0;
+  height: 20%;
+  width: 50%;
+  position: absolute;
+    border: 3px solid #d40b5b;
+}
+
+.header2 {
+  top: 0;
+  height: 20%;
+  width: 50%;
+  position: absolute;
+    border: 3px solid #d40b5b;
+}
+
+
+.left1 {
+  width: 50%;
+  height: 75%;
+  top: 20%;
+  left: 0%;
+  position: absolute;
+  border: 3px solid #d40b5b;
+}
+
+
+.right1 {
+  width: 48%;
+  top:  5%;
+  height: 90%;
+  left: 51%;
+  position: absolute;
+    border: 3px solid #d40b5b;
+}
+
+
+.right2 {
+  width: 48%;
+  height: 75%;
+  top: 20%;
+  left: 51%;
+  position: absolute;
+  border: 3px solid #d40b5b;
+}
+
+
+  .eq {
+    text-align: center;
+    flex: 1;
+    font-size: 80%;
+    font-style: italic;
+  }
+
+
+
+  </style>
+</head>
+
+<body>
+
+  <div class="reveal">
+
+    <div class="slides">
+
+       <section>
+        <div class="container">
+        <h1 class="title">GIS Workflows</h1>
+        <p class="subtitle">Potat</p>
+          <!-- <div class="left"> -->
+            <!-- <p class="left1">potat</p> -->
+            <!-- <p>potat</p> -->
+         <!-- </div> -->
+         <!-- <div class="right"> -->
+         <!-- <p class="right2">Pandas</p> -->
+         <!-- </div> -->
+          <!-- <div class="right"> -->
+            <!-- <img src="images/Flowchart.png"> -->
+          </div>
+         
+      </section>
+
+
+       <section>
+        <div class="container">
+        <h2 class="header1">GIS Workflows</h2>
+          <!-- <div class="left"> -->
+            <p class="right">potat</p>
+            <!-- <p>potat</p> -->
+         <!-- </div> -->
+         <!-- <div class="right"> -->
+         <p class="left">Pandas</p>
+         <!-- </div> -->
+          <!-- <div class="right"> -->
+            <!-- <img src="images/Flowchart.png"> -->
+          </div>
+         
+      </section>
+
+    </div><!-- .slides -->
+
+  </div><!-- .reveal -->
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.2.1/reveal.min.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.2.1/plugin/math/math.min.js"></script>
+
+  <script>
+    // Full list of configuration options available at:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+      controls: true,
+      progress: true,
+      history: true,
+      center: true,
+      overview: false,
+      loop: false,
+      margin: 0.04,
+      width: 1200,
+      height: 650,
+
+      transition: 'none',
+
+    plugins: [ RevealMath.MathJax2 ]
+    },
+
+
+    );
+  </script>
+</body>
+
+</html>
