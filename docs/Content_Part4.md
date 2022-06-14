@@ -13,7 +13,7 @@ This videos give some visual examples of raster vs vector resolution
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bG5E8YzqI0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Error 
+# Modifiable Aereal Unit Problem (MAUP) 
 
 This video covers the Modifiable Aereal Unit Problem (MAUP) and other exaples of error.
 
