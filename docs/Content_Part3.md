@@ -6,14 +6,16 @@ has_children: True
 nav_order: 3
 ---
 
+<!-- 
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
+ -->
 
-
+# Unertainty in GIS
 
 <!-- # Error, Spatial Bias, Logical Fallacies -->
-{: .no_toc }
+<!-- {: .no_toc } -->
 
 <!-- See [**this link**](https://github.com/June-Skeeter/Module6_GEOS270/blob/main/docs/content/Nov_17.pdf) for a .pdf copy of the lecture (*note the formatting is not perfect*)
 
@@ -21,7 +23,7 @@ See [**this link**](https://github.com/June-Skeeter/Module6_GEOS270/blob/main/do
 
 
 
-<!-- 
+
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
@@ -36,7 +38,7 @@ See [**this link**](https://github.com/June-Skeeter/Module6_GEOS270/blob/main/do
  </iframe>
 </div>
 <a href="content/Uncertainty.html" target="_blank">View Slides in New Tab</a>
- -->
+
 
 <!-- 
 <details open markdown="block">
@@ -50,6 +52,7 @@ See [**this link**](https://github.com/June-Skeeter/Module6_GEOS270/blob/main/do
 
  -->
 
+<!-- 
 ## Data Quality in GIS
 
 A measure of how good a particular dataset is to your needs.  It is **up to GIS users** to assess data and determine if it is appropriate.  Unlike say ... baking, GIS products don’t have obvious evidence of their own inadequacy.  There is no standardized measure of data quality for GIS products.  
@@ -168,8 +171,8 @@ $$
 
 Also closely related. The main distinction, its vagueness is about lack of information, ambiguity is about multiple options.
 
-**Vagueness**: When something is not clearly stated or expressed.  Arises when boundaries or labels are poorly defined.
-* The word “bank” can refer to a financial institution or a riverside.
+**Vagueness**: When something is not clearly stated or defined.  Arises when boundaries or labels are poorly defined.
+<!-- * The word “bank” can refer to a financial institution or a riverside. -->
 * Where does a forest end and a grassland begin?
 * Data may be an estimate.
   * eg. Stats Canada census long form - only samples 20% of the population.
@@ -234,7 +237,6 @@ Data resolution can impact both accuracy & precision.  It can also result in vag
 * Resolution applies to **Time** as well as **Space**
   * Maybe your data is out dated?
   * Maybe your analysis spans a long time period - what census years should you use?  How do you work with data that spans multiple years?
-    - I'll give an example of that next week.
 
 ---
 
@@ -295,3 +297,4 @@ Fallacy occurs when we assume we can combine already aggregated data and aggrega
 <img src="content/images/atomistic.png" alt="missing" class="inline" width="500">
 
 
+ -->
